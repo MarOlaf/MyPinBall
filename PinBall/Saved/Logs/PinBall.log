@@ -560,3 +560,153 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.09.15-15.05.25:935][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
 [2023.09.15-15.05.25:941][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: A721E8324ACF4C51C65EBAB31E489D42 | Instance: 4DF847D340157DF265EC71A2D78543E8 (DESKTOP-CC2H0L2-11172).
 [2023.09.15-15.05.25:990][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.09.15-15.05.26:235][  0]SourceControl: Source control is disabled
+[2023.09.15-15.05.26:238][  0]SourceControl: Source control is disabled
+[2023.09.15-15.05.26:253][  0]SourceControl: Source control is disabled
+[2023.09.15-15.05.26:257][  0]LogUProjectInfo: Found projects:
+[2023.09.15-15.05.26:262][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.09.15-15.05.26:263][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.09.15-15.05.26:263][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.09.15-15.05.26:456][  0]LogOpenImageDenoise: OIDN starting up
+[2023.09.15-15.05.26:497][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.09.15-15.05.26:521][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.09.15-15.05.26:521][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.09.15-15.05.26:876][  0]LogCollectionManager: Loaded 0 collections in 0.000775 seconds
+[2023.09.15-15.05.26:915][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Aquarius/Documents/GitHub/MyPinBall/PinBall/Saved/Collections/' took 0.00s
+[2023.09.15-15.05.26:915][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Aquarius/Documents/GitHub/MyPinBall/PinBall/Content/Developers/Aquarius/Collections/' took 0.00s
+[2023.09.15-15.05.26:915][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Aquarius/Documents/GitHub/MyPinBall/PinBall/Content/Collections/' took 0.00s
+[2023.09.15-15.05.27:299][  0]LogEngine: Initializing Engine...
+[2023.09.15-15.05.27:318][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.09.15-15.05.27:321][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.09.15-15.05.27:693][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.09.15-15.05.27:693][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.09.15-15.05.27:711][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.15-15.05.27:752][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.09.15-15.05.27:752][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.09.15-15.05.27:780][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.09.15-15.05.27:781][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.09.15-15.05.27:781][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.09.15-15.05.27:781][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.09.15-15.05.27:781][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.09.15-15.05.27:781][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.15-15.05.27:781][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.15-15.05.27:781][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.15-15.05.27:781][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.15-15.05.27:781][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.15-15.05.27:781][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.15-15.05.27:782][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.15-15.05.27:782][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.15-15.05.27:782][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.15-15.05.27:782][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.15-15.05.27:782][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.15-15.05.27:788][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.15-15.05.27:822][  0]LogAudioMixer: Display: Using Audio Hardware Device SPDIF Interface (2- FiiO USB DAC-E10)
+[2023.09.15-15.05.27:822][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.15-15.05.27:824][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.15-15.05.27:824][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.15-15.05.27:824][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.09.15-15.05.27:824][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.09.15-15.05.27:826][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.09.15-15.05.27:826][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.09.15-15.05.27:826][  0]LogInit: FAudioDevice initialized.
+[2023.09.15-15.05.27:826][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.09.15-15.05.27:826][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.09.15-15.05.27:826][  0]LogInit: Texture streaming: Enabled
+[2023.09.15-15.05.27:879][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.09.15-15.05.27:892][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.09.15-15.05.27:942][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.09.15-15.05.27:952][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.09.15-15.05.27:952][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.09.15-15.05.29:517][  0]LogLiveCoding: Display: First instance in process group "UE_PinBall_0x627a674a", spawning console
+[2023.09.15-15.05.29:517][  0]LogLiveCoding: Display: Waiting for server
+[2023.09.15-15.05.29:517][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.09.15-15.05.29:545][  0]LogInit: Transaction tracking system initialized
+[2023.09.15-15.05.29:646][  0]BlueprintLog: New page: Editor Load
+[2023.09.15-15.05.30:010][  0]LocalizationService: Localization service is disabled
+[2023.09.15-15.05.30:074][  0]TimingProfiler: Initialize
+[2023.09.15-15.05.30:074][  0]TimingProfiler: OnSessionChanged
+[2023.09.15-15.05.30:074][  0]LoadingProfiler: Initialize
+[2023.09.15-15.05.30:074][  0]LoadingProfiler: OnSessionChanged
+[2023.09.15-15.05.30:074][  0]NetworkingProfiler: Initialize
+[2023.09.15-15.05.30:074][  0]NetworkingProfiler: OnSessionChanged
+[2023.09.15-15.05.30:074][  0]MemoryProfiler: Initialize
+[2023.09.15-15.05.30:074][  0]MemoryProfiler: OnSessionChanged
+[2023.09.15-15.05.30:369][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.09.15-15.05.30:370][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.09.15-15.05.30:372][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.09.15-15.05.30:989][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Aquarius/Documents/GitHub/MyPinBall/PinBall/Content/' took 0.01s
+[2023.09.15-15.05.30:989][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.09.15-15.05.31:107][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.09.15-15.05.31:110][  0]SourceControl: Source control is disabled
+[2023.09.15-15.05.31:111][  0]LogUnrealEdMisc: Loading editor; pre map load, took 12.645
+[2023.09.15-15.05.31:111][  0]Cmd: MAP LOAD FILE="C:/Users/Aquarius/Documents/GitHub/MyPinBall/PinBall/Content/PinBall.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.09.15-15.05.31:111][  0]LightingResults: New page: Lighting Build
+[2023.09.15-15.05.31:125][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.09.15-15.05.31:125][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.15-15.05.31:125][  0]MapCheck: New page: Map Check
+[2023.09.15-15.05.31:126][  0]LightingResults: New page: Lighting Build
+[2023.09.15-15.05.31:137][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.15-15.05.31:141][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.09.15-15.05.31:302][  0]LogMaterial: Display: Missing cached shadermap for M_PopBumper_Inst in PCD3D_SM5, Default, SM5 (DDC key hash: 8C6666FAE94191EEC4B08952BCF2ABAB2A007F61), compiling. 
+[2023.09.15-15.05.31:470][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'PinBall'.
+[2023.09.15-15.05.31:471][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.09.15-15.05.31:471][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.15-15.05.31:477][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.09.15-15.05.31:477][  0]LogAIModule: Creating AISystem for world PinBall
+[2023.09.15-15.05.31:509][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.09.15-15.05.31:509][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.09.15-15.05.31:510][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.263ms to complete.
+[2023.09.15-15.05.31:510][  0]LogFileHelpers: Loading map 'PinBall' took 0.399
+[2023.09.15-15.05.31:537][  0]LogUnrealEdMisc: Total Editor Startup Time, took 13.070
+[2023.09.15-15.05.31:537][  0]LogShaderCompilers: Display: ================================================
+[2023.09.15-15.05.31:537][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.15-15.05.31:537][  0]LogShaderCompilers: Display: Total job queries 16, among them cache hits 0 (0.00%)
+[2023.09.15-15.05.31:537][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.09.15-15.05.31:537][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.09.15-15.05.31:537][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.15-15.05.31:537][  0]LogShaderCompilers: Display: Shaders Compiled: 16
+[2023.09.15-15.05.31:537][  0]LogShaderCompilers: Display: Jobs assigned 16, completed 0 (0.00%)
+[2023.09.15-15.05.31:537][  0]LogShaderCompilers: Display: Time job spent in pending queue: average 0.00 s, longest 0.00 s
+[2023.09.15-15.05.31:537][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.09.15-15.05.31:537][  0]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 2.00 jobs/batch
+[2023.09.15-15.05.31:537][  0]LogShaderCompilers: Display: ================================================
+[2023.09.15-15.05.31:701][  0]LogPakFile: Display: Mounted Pak file 'D:/Program Files/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.09.15-15.05.31:701][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.15-15.05.31:703][  0]LogPakFile: Display: Mounted Pak file 'D:/Program Files/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.09.15-15.05.31:704][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.15-15.05.31:706][  0]LogPakFile: Display: Mounted Pak file 'D:/Program Files/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.09.15-15.05.31:706][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.15-15.05.31:708][  0]LogPakFile: Display: Mounted Pak file 'D:/Program Files/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.09.15-15.05.31:708][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.15-15.05.31:711][  0]LogPakFile: Display: Mounted Pak file 'D:/Program Files/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.09.15-15.05.31:711][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.15-15.05.31:712][  0]LogPakFile: Display: Mounted Pak file 'D:/Program Files/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.09.15-15.05.31:712][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.15-15.05.31:713][  0]LogPakFile: Display: Mounted Pak file 'D:/Program Files/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.09.15-15.05.31:713][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.15-15.05.31:714][  0]LogPakFile: Display: Mounted Pak file 'D:/Program Files/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.09.15-15.05.31:714][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.15-15.05.31:717][  0]LogPakFile: Display: Mounted Pak file 'D:/Program Files/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.09.15-15.05.31:717][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.15-15.05.31:718][  0]LogPakFile: Display: Mounted Pak file 'D:/Program Files/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.09.15-15.05.31:718][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.15-15.05.31:718][  0]LogFeaturePack: Error: Error in Feature pack D:/Program Files/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.09.15-15.05.31:852][  0]LogSlate: The tab "LevelEditorToolBar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.09.15-15.05.31:869][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-15.05.31:881][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-15.05.31:891][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-15.05.31:902][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-15.05.32:349][  0]LogSlate: Took 0.000593 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.09.15-15.05.32:356][  0]LogSlate: Took 0.000960 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.09.15-15.05.32:361][  0]LogSlate: Took 0.000844 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.09.15-15.05.32:372][  0]LogSlate: Took 0.000641 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.09.15-15.05.32:375][  0]LogSlate: Took 0.000971 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.09.15-15.05.32:512][  0]LogViewport: Scene viewport resized to 2170x1262, mode Windowed.
+[2023.09.15-15.05.33:290][  0]LogStall: Startup...
+[2023.09.15-15.05.33:298][  0]LogStall: Startup complete.
+[2023.09.15-15.05.33:374][  0]LogLoad: (Engine Initialization) Total time: 14.91 seconds
+[2023.09.15-15.05.33:374][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.09.15-15.05.33:630][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.09.15-15.05.33:945][  1]LogAssetRegistry: Asset discovery search completed in 10.8527 seconds
+[2023.09.15-15.05.33:974][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000010 seconds (updated 0 objects)
+[2023.09.15-15.05.34:116][  2]LogSlate: Took 0.000454 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
